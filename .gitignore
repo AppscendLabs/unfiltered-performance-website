@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# npm debug files
+npm-debug.log*
+
+# Yarn lock file (if you are using Yarn instead of npm)
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.local
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
